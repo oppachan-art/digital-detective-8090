@@ -1,6 +1,6 @@
 # The Digital Detective
 
-A mission-based introduction to computer systems, the Terminal, Python, data representation, Git and networking. Replace `XXXX` in this folder and repository name with the last four digits of your USN before publishing. Do not publish your name, full USN, device identifiers, IP address, Wi-Fi name, passwords or access tokens.
+A mission-based introduction to computer systems, the Terminal, Python, data representation, Git and networking. The repository name uses the supplied last four digits of the student USN. Do not publish your name, full USN, device identifiers, IP address, Wi-Fi name, passwords or access tokens.
 
 ## Mission index
 
