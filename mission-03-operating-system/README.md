@@ -1,9 +1,9 @@
 # Mission 3 — Understand the operating system
 
-## 1. Task / objective
+## 2. Task / objective
 Observe system information and processes, explain paths and permissions, and describe OS responsibilities.
 
-## 2. Work completed
+## 3. Work completed
 ### Privacy-safe observations
 | Information | What it tells you | Your observation |
 |---|---|---|
@@ -32,20 +32,20 @@ An absolute path begins at the filesystem root; a relative path is interpreted f
 | User interface / shell | Lets a person interact graphically or with commands | Desktop or Terminal |
 | Security and permissions | Controls accounts and allowed access | Limits who can edit a file |
 
-## 3. Commands / tools used
+## 4. Commands / tools used
 Used `sw_vers` for OS version, `df -h /` for storage, and `ps` for a process snapshot. Account, device and process identifiers were omitted.
 
-## 4. My understanding
+## 5. My understanding
 The operating system coordinates programs, memory, devices, files and access. A path identifies a location, and permissions express what an owner or other users may do with a file.
 
-## 5. Difficulties faced
+## 6. Difficulties faced
 No major difficulties. I omitted account, device and process identifiers from the notes.
 
-## 6. How I resolved them
+## 7. How I resolved them
 Recorded only the broad OS version and rounded storage totals; process names and PIDs were not copied.
 
-## 7. Evidence / files
+## 8. Evidence / files
 Privacy-safe system summary is included above; no screenshot or identifying output included.
 
-## 8. Commit details
+## 9. Commit details
 Suggested message: `Document operating system and file management`. Commit hash: https://github.com/oppachan-art/digital-detective-8090 (see Git history).
