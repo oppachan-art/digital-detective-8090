@@ -1,9 +1,9 @@
 # Mission 2 — Become comfortable with the Terminal
 
-## 1. Task / objective
+## 2. Task / objective
 Use basic command-line operations, practice safe file changes, explain flags and pipes, and describe package managers.
 
-## 2. Work completed
+## 3. Work completed
 ### Command reference
 | Operation | macOS/Linux command | What it does |
 |---|---|---|
@@ -26,20 +26,20 @@ A flag changes a command's options. For example, `ls -l` requests a detailed lis
 
 A package manager provides a consistent way to find, install, update and remove software and track dependencies. On macOS, Homebrew is one example. For this assignment, inspect it if present; do not install or uninstall anything.
 
-## 3. Commands / tools used
+## 4. Commands / tools used
 Ran `pwd`, `ls`, `ls -la`, `cd ..`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `printf`, and `head`; used a pipe from `ls -la` to `head -n 5` inside the assignment folder. Also checked Homebrew: version 7.0.14 was present with 46 installed formulae; no software was installed or removed.
 
-## 4. My understanding
+## 5. My understanding
 Commands operate relative to the current directory, so checking the location first and keeping practice inside the repository reduces mistakes. Flags adjust behavior, and a pipe connects command output to another command.
 
-## 5. Difficulties faced
+## 6. Difficulties faced
 No major difficulties. I kept file operations inside the assignment practice folder.
 
-## 6. How I resolved them
+## 7. How I resolved them
 Checked the current folder before creating files, then verified the copied, renamed and appended text with a directory listing and `cat`.
 
-## 7. Evidence / files
+## 8. Evidence / files
 `terminal-practice/example.txt`, its renamed backup and the practice subfolder; no screenshot included.
 
-## 8. Commit details
+## 9. Commit details
 Suggested message: `Complete Terminal and file management mission`. Commit hash: https://github.com/oppachan-art/digital-detective-8090 (see Git history).
