@@ -34,7 +34,7 @@ Checked repository status and the diff before staging, committed the README upda
 Branch: `update-about`. Pull Request URL: https://github.com/oppachan-art/digital-detective-8090/pull/1. No credentials or tokens are stored in the repository.
 
 ## 9. Commit details
-Suggested message: `Complete Git and GitHub collaboration mission`. Commit hash and push confirmation: [filled after push].
+Suggested message: `Complete Git and GitHub collaboration mission`. The mission commit and push are visible in the repository history; the branch and Pull Request activity are linked above.
 
 ### Git command glossary
 
