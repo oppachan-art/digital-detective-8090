@@ -1,9 +1,9 @@
 # Mission 1 — Know your computer
 
-## 1. Task / objective
+## 2. Task / objective
 Explain one activity using input, processing, output and storage (IPOS), classify hardware and software, and identify computer systems.
 
-## 2. Work completed
+## 3. Work completed
 ### IPOS: creating and saving this assignment README
 | Stage | What happens | Hardware/component |
 |---|---|---|
@@ -31,20 +31,20 @@ Explain one activity using input, processing, output and storage (IPOS), classif
 | Traffic signal controller | Controls traffic lights | Sensors or timed plan | Light signals |
 | Smart TV | Plays broadcast or streaming media | Remote-control buttons | Picture and sound |
 
-## 3. Commands / tools used
+## 4. Commands / tools used
 Tools used: Python 3 and the Terminal to create and organize files; Git and GitHub to track and host the repository. Typical components involved include the processor, memory, display and SSD.
 
-## 4. My understanding
+## 5. My understanding
 IPOS is a useful way to describe a system: input arrives, processing changes or interprets it, output communicates a result, and storage keeps data for later. Hardware is the physical equipment; software is the set of instructions.
 
-## 5. Difficulties faced
+## 6. Difficulties faced
 No major difficulties completing the IPOS examples and classifications.
 
-## 6. How I resolved them
+## 7. How I resolved them
 Used the assignment requirements to organize the examples into tables and checked each item against its purpose.
 
-## 7. Evidence / files
+## 8. Evidence / files
 This README contains the completed example tables.
 
-## 8. Commit details
+## 9. Commit details
 Suggested message: `Complete computer basics and IPOS mission`. Commit hash: https://github.com/oppachan-art/digital-detective-8090 (see Git history).
